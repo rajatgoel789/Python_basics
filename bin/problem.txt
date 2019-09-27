@@ -1,0 +1,10 @@
+Hospitals
+Real Estate
+Banking
+Supermarket
+
+
+
+AI
+1. ML
+2. DeepLearning
